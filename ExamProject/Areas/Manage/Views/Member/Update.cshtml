@@ -1,0 +1,27 @@
+﻿@using ExamProject.ViewModel.Member
+@model UpdateMembervm
+
+<div class="Countainer">
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="FullName">FullName</label>
+            <input class="form-control" asp-for="FullName" placeholder="Enter FullName">
+            <span asp-validation-for="FullName" style="color:red"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="PositionId">FullName</label>
+            <select class="form-select" asp-for="PositionId" asp-items="@(new SelectList(ViewBag.positions,"Id" ,"Name"))">
+                <option>position</option>
+
+            </select>
+            <span asp-validation-for="FullName" style="color:red"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Myfile">Myfile</label>
+            <input class="form-control" asp-for="Myfile" placeholder="Myfile">
+            <span asp-validation-for="Myfile" style="color:red"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

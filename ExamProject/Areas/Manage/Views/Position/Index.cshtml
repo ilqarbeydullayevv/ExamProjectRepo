@@ -1,0 +1,38 @@
+﻿
+@model List<Position>
+<div class="Countainer">
+    @{
+        int count = 0;
+    }
+    <a class=" btn btn-danger"  asp-action="Create">Create</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Member count</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+
+                count++;
+              <tr>  
+            <th scope="row">@count</th>
+            <td>@item.Name</td>
+            <td>@item.Members.Count</td>
+            <div>
+                <td>
+                <a class="btn btn-primary" asp-action="Update" asp-route-Id="@item.Id">Update</a>
+                <a class=" btn btn-secondary" asp-action="Delete" asp-route-Id="@item.Id">Delete</a>
+                </td>
+            </div>
+ 
+        </tr>
+        }
+       
+    </tbody>
+</table>
+</div>
