@@ -1,4 +1,6 @@
 using ExamProject.DAL.Context;
+using ExamProject.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace ExamProject
@@ -15,6 +17,15 @@ namespace ExamProject
             {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
             });
+            builder.Services.AddIdentity<Appuser, IdentityRole>(opt =>
+            {
+                opt.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-";
+                opt.Password.RequireUppercase = false;
+                opt.Password.RequireLowercase = false;
+                opt.Password.RequireDigit = false;
+                opt.Password.RequiredUniqueChars = 0;
+                
+            }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
 
             var app = builder.Build();
 

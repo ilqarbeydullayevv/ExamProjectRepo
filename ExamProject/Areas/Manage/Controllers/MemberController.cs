@@ -34,6 +34,17 @@ namespace ExamProject.Areas.Manage.Controllers
         public async Task<IActionResult> Create(CreateMembervm vm)
         {
             ViewBag.positions = await _context.Positions.ToListAsync();
+            if(!vm.Myfile.ContentType.Contains("image"))
+            {
+                ModelState.AddModelError("Myfile", "duzgun fayl formati adxil edin");
+                return View(vm);
+            }
+            if (vm.Myfile.Length > 2097152)
+            {
+                ModelState.AddModelError("Myfile", "2 mb dan boyuk sekil yuklemek olmaz");
+                return View(vm);
+
+            }
             string filename=vm.Myfile.FileName;
             string path = env.WebRootPath + @"/upload/member/";
             using(FileStream stream = new FileStream(path+filename, FileMode.Create))
