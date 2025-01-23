@@ -27,6 +27,13 @@ namespace ExamProject
                 
             }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
 
+            builder.Services.AddAuthentication().AddCookie(opt =>
+            {
+                opt.LoginPath = @"/Account/Login";
+                opt.Cookie.Expiration = TimeSpan.FromDays(20);
+                opt.AccessDeniedPath = @"/Account/AccessDeniedPath";
+            });
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

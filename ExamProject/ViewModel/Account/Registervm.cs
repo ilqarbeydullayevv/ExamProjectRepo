@@ -15,7 +15,7 @@ namespace ExamProject.ViewModel.Account
         [DataType(DataType.Password)]
         public string Password { get; set; }
         [DataType(DataType.Password),Compare("Password")]
-        public string Confirmpassword { get; set; }
+        public string ConfirmPassword { get; set; }
 
     }
 }

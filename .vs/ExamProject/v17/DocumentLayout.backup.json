@@ -7,20 +7,52 @@
       "RelativeMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|c:\\users\\i novbe\\source\\repos\\examproject\\examproject\\dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|c:\\users\\i novbe\\source\\repos\\examproject\\examproject\\viewmodel\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\viewmodel\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|c:\\users\\i novbe\\source\\repos\\examproject\\examproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|c:\\users\\i novbe\\source\\repos\\examproject\\examproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|c:\\users\\i novbe\\source\\repos\\examproject\\examproject\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|c:\\users\\i novbe\\source\\repos\\examproject\\examproject\\viewmodel\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\viewmodel\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|c:\\users\\i novbe\\source\\repos\\examproject\\examproject\\helpers\\enums\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\helpers\\enums\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|c:\\users\\i novbe\\source\\repos\\examproject\\examproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|c:\\users\\i novbe\\source\\repos\\examproject\\examproject\\areas\\manage\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\areas\\manage\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|c:\\users\\i novbe\\source\\repos\\examproject\\examproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|c:\\users\\i novbe\\source\\repos\\examproject\\examproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|c:\\users\\i novbe\\source\\repos\\examproject\\examproject\\viewmodel\\member\\createmembervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\viewmodel\\member\\createmembervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|c:\\users\\i novbe\\source\\repos\\examproject\\examproject\\dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|c:\\users\\i novbe\\source\\repos\\examproject\\examproject\\dal\\configuration\\appuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,20 +71,8 @@
       "RelativeMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\areas\\manage\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|c:\\users\\i novbe\\source\\repos\\examproject\\examproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|c:\\users\\i novbe\\source\\repos\\examproject\\examproject\\areas\\manage\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\areas\\manage\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|c:\\users\\i novbe\\source\\repos\\examproject\\examproject\\areas\\manage\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\areas\\manage\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|c:\\users\\i novbe\\source\\repos\\examproject\\examproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|solutionrelative:examproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A45049F-3836-4900-88D5-C2025150B414}|ExamProject\\ExamProject.csproj|c:\\users\\i novbe\\source\\repos\\examproject\\examproject\\areas\\manage\\views\\member\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -130,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -138,46 +158,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\DAL\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ExamProject\\DAL\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\DAL\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "ExamProject\\DAL\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T07:15:03.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Appuser.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Models\\Appuser.cs",
-              "RelativeDocumentMoniker": "ExamProject\\Models\\Appuser.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Models\\Appuser.cs",
-              "RelativeToolTip": "ExamProject\\Models\\Appuser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Helpers\\Enums\\UserRoles.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Helpers\\Enums\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Helpers\\Enums\\UserRoles.cs",
+              "RelativeToolTip": "ExamProject\\Helpers\\Enums\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T07:10:20.469Z",
+              "WhenOpened": "2025-01-23T08:35:50.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Program.cs",
-              "RelativeDocumentMoniker": "ExamProject\\Program.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Program.cs",
-              "RelativeToolTip": "ExamProject\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T07:05:23.414Z",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExamProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExamProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAewEsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T08:22:46.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ExamProject\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ExamProject\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T08:16:54.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ExamProject\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ExamProject\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T07:30:37.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ExamProject\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwCIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:19:48.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Loginvm.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\ViewModel\\Account\\Loginvm.cs",
               "RelativeDocumentMoniker": "ExamProject\\ViewModel\\Account\\Loginvm.cs",
@@ -190,45 +236,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Registervm.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\ViewModel\\Account\\Registervm.cs",
               "RelativeDocumentMoniker": "ExamProject\\ViewModel\\Account\\Registervm.cs",
               "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\ViewModel\\Account\\Registervm.cs",
               "RelativeToolTip": "ExamProject\\ViewModel\\Account\\Registervm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T07:05:05.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ExamProject\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ExamProject\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAHQBAAAAAAAAAAAAAHMBAABpAAAAAAAAAA==",
+              "ViewState": "AgIAACwBAAAAAAAAAAAAAE0BAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-23T06:38:36.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ExamProject\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ExamProject\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T06:33:33.326Z"
+              "WhenOpened": "2025-01-23T06:33:33.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Areas\\Manage\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamProject\\Areas\\Manage\\Views\\Member\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Areas\\Manage\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "ExamProject\\Areas\\Manage\\Views\\Member\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T05:02:02.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Program.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Program.cs",
+              "RelativeToolTip": "ExamProject\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:05:23.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Areas\\Manage\\Views\\Member\\Update.cshtml",
               "RelativeDocumentMoniker": "ExamProject\\Areas\\Manage\\Views\\Member\\Update.cshtml",
@@ -240,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Areas\\Manage\\Views\\Member\\Create.cshtml",
               "RelativeDocumentMoniker": "ExamProject\\Areas\\Manage\\Views\\Member\\Create.cshtml",
@@ -252,56 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Areas\\Manage\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "ExamProject\\Areas\\Manage\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Areas\\Manage\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "ExamProject\\Areas\\Manage\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T06:02:04.123Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UpdateMembervm.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\ViewModel\\Member\\UpdateMembervm.cs",
-              "RelativeDocumentMoniker": "ExamProject\\ViewModel\\Member\\UpdateMembervm.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\ViewModel\\Member\\UpdateMembervm.cs",
-              "RelativeToolTip": "ExamProject\\ViewModel\\Member\\UpdateMembervm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T06:01:23.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MemberConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\DAL\\Configuration\\MemberConfiguration.cs",
-              "RelativeDocumentMoniker": "ExamProject\\DAL\\Configuration\\MemberConfiguration.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\DAL\\Configuration\\MemberConfiguration.cs",
-              "RelativeToolTip": "ExamProject\\DAL\\Configuration\\MemberConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T06:00:49.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Member.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Models\\Member.cs",
-              "RelativeDocumentMoniker": "ExamProject\\Models\\Member.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Models\\Member.cs",
-              "RelativeToolTip": "ExamProject\\Models\\Member.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T05:58:54.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "CreateMembervm.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\ViewModel\\Member\\CreateMembervm.cs",
               "RelativeDocumentMoniker": "ExamProject\\ViewModel\\Member\\CreateMembervm.cs",
@@ -314,7 +338,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 14,
+              "Title": "Appuser.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Models\\Appuser.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Models\\Appuser.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Models\\Appuser.cs",
+              "RelativeToolTip": "ExamProject\\Models\\Appuser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:10:20.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\DAL\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ExamProject\\DAL\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\DAL\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "ExamProject\\DAL\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:15:03.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "ExamProject\\Areas\\Manage\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:02:04.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateMembervm.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\ViewModel\\Member\\UpdateMembervm.cs",
+              "RelativeDocumentMoniker": "ExamProject\\ViewModel\\Member\\UpdateMembervm.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\ViewModel\\Member\\UpdateMembervm.cs",
+              "RelativeToolTip": "ExamProject\\ViewModel\\Member\\UpdateMembervm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:01:23.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MemberConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\DAL\\Configuration\\MemberConfiguration.cs",
+              "RelativeDocumentMoniker": "ExamProject\\DAL\\Configuration\\MemberConfiguration.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\DAL\\Configuration\\MemberConfiguration.cs",
+              "RelativeToolTip": "ExamProject\\DAL\\Configuration\\MemberConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:00:49.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "ExamProject\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Models\\Member.cs",
+              "RelativeToolTip": "ExamProject\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:58:54.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Areas\\Manage\\Views\\Position\\Update.cshtml",
               "RelativeDocumentMoniker": "ExamProject\\Areas\\Manage\\Views\\Position\\Update.cshtml",
@@ -326,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Areas\\Manage\\Views\\Position\\Create.cshtml",
               "RelativeDocumentMoniker": "ExamProject\\Areas\\Manage\\Views\\Position\\Create.cshtml",
@@ -338,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ExamProject\\Views\\_ViewImports.cshtml",
@@ -350,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Areas\\Manage\\Views\\Position\\Index.cshtml",
               "RelativeDocumentMoniker": "ExamProject\\Areas\\Manage\\Views\\Position\\Index.cshtml",
@@ -362,19 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Areas\\Manage\\Views\\Member\\Index.cshtml",
-              "RelativeDocumentMoniker": "ExamProject\\Areas\\Manage\\Views\\Member\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Areas\\Manage\\Views\\Member\\Index.cshtml",
-              "RelativeToolTip": "ExamProject\\Areas\\Manage\\Views\\Member\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T05:02:02.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Areas\\Manage\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ExamProject\\Areas\\Manage\\Views\\_ViewImports.cshtml",
@@ -386,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Areas\\Manage\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ExamProject\\Areas\\Manage\\Views\\_ViewStart.cshtml",
@@ -398,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ExamProject\\Areas\\Manage\\Views\\Shared\\_Layout.cshtml",
@@ -410,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "ExamProject\\Areas\\Manage\\Views\\Dashboard\\Index.cshtml",
@@ -422,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "MemberController.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Areas\\Manage\\Controllers\\MemberController.cs",
               "RelativeDocumentMoniker": "ExamProject\\Areas\\Manage\\Controllers\\MemberController.cs",
@@ -430,12 +514,11 @@
               "RelativeToolTip": "ExamProject\\Areas\\Manage\\Controllers\\MemberController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T05:00:42.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T05:00:42.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "PositionController.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Areas\\Manage\\Controllers\\PositionController.cs",
               "RelativeDocumentMoniker": "ExamProject\\Areas\\Manage\\Controllers\\PositionController.cs",
@@ -447,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "UpdatePositionvm.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\ViewModel\\Position\\UpdatePositionvm.cs",
               "RelativeDocumentMoniker": "ExamProject\\ViewModel\\Position\\UpdatePositionvm.cs",
@@ -459,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "CreatePositionvm.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\ViewModel\\Position\\CreatePositionvm.cs",
               "RelativeDocumentMoniker": "ExamProject\\ViewModel\\Position\\CreatePositionvm.cs",
@@ -471,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "20250123045308_addMembertable.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\Migrations\\20250123045308_addMembertable.cs",
               "RelativeDocumentMoniker": "ExamProject\\Migrations\\20250123045308_addMembertable.cs",
@@ -483,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\appsettings.json",
               "RelativeDocumentMoniker": "ExamProject\\appsettings.json",
@@ -495,7 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "AppuserConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\DAL\\Configuration\\AppuserConfiguration.cs",
               "RelativeDocumentMoniker": "ExamProject\\DAL\\Configuration\\AppuserConfiguration.cs",
@@ -503,8 +586,7 @@
               "RelativeToolTip": "ExamProject\\DAL\\Configuration\\AppuserConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T04:41:28.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T04:41:28.246Z"
             }
           ]
         }

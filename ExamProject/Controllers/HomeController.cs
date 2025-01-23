@@ -1,6 +1,7 @@
 
 using ExamProject.DAL.Context;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
 namespace ExamProject.Controllers
@@ -16,7 +17,7 @@ namespace ExamProject.Controllers
 
         public IActionResult Index()
         {
-            var members = _context.Members.Take(4).ToList();
+            var members = _context.Members.Include(x=>x.Position).ToList();
             return View(members);
         }
 

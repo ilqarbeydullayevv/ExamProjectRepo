@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Bg/efCV9moNNVi970SGdAJOsp2gxKYnS9nxBHPqnY7E=",
+  "Hash": "9P3O37+ohWdDVdYKE6CCy2FPXrcpbN3hfOWI9y6bJeo=",
   "Source": "ExamProject",
   "BasePath": "_content/ExamProject",
   "Mode": "Default",
@@ -37675,6 +37675,25 @@
       "OriginalItemSpec": "wwwroot\\upload\\member\\team-2.jpg"
     },
     {
+      "Identity": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\wwwroot\\upload\\member\\team-3.jpg",
+      "SourceId": "ExamProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\wwwroot\\",
+      "BasePath": "_content/ExamProject",
+      "RelativePath": "upload/member/team-3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\member\\team-3.jpg"
+    },
+    {
       "Identity": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\wwwroot\\upload\\member\\team-4.jpg",
       "SourceId": "ExamProject",
       "SourceType": "Discovered",
@@ -37692,6 +37711,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\upload\\member\\team-4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\wwwroot\\upload\\member\\testimonial-1.jpg",
+      "SourceId": "ExamProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\wwwroot\\",
+      "BasePath": "_content/ExamProject",
+      "RelativePath": "upload/member/testimonial-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\member\\testimonial-1.jpg"
     },
     {
       "Identity": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\wwwroot\\upload\\member\\testimonial-2.jpg",

@@ -7925,8 +7925,16 @@
       "PackagePath": "staticwebassets\\upload\\member\\team-2.jpg"
     },
     {
+      "Id": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\wwwroot\\upload\\member\\team-3.jpg",
+      "PackagePath": "staticwebassets\\upload\\member\\team-3.jpg"
+    },
+    {
       "Id": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\wwwroot\\upload\\member\\team-4.jpg",
       "PackagePath": "staticwebassets\\upload\\member\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\wwwroot\\upload\\member\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\upload\\member\\testimonial-1.jpg"
     },
     {
       "Id": "C:\\Users\\I Novbe\\source\\repos\\ExamProject\\ExamProject\\wwwroot\\upload\\member\\testimonial-2.jpg",
